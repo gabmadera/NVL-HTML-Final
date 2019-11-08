@@ -10,3 +10,4 @@ En Quienes, se ve un sencillo elemento de bloque con sus imagenes y links basico
 En "Contacto" se puede ver la utilizacion de un formulario, con tipos de texto, numericos, de seleccion y areas de texto, con su respectivo boton. (En esta seccion me queda la duda sobre a dónde va la informacion enviada, ¿Debo crear yo el sitio a donde va? Ya deberia saberlo?)
 Intento utilizar en toda la "web" lo aprendido en esta seccion de HTML.
 Gracias y saludos.
+PD: Por favor denme correcciones.
