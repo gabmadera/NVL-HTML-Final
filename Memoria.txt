@@ -1,0 +1,12 @@
+Hola chicos, aqui un poco de información sobre la pagina:
+
+Creada la pagina principal, con links en botones en la parte superior izquierda que llevan al usuario a otras secciones (cada una en un fichero html diferente, dentro del repositorio) utilizando links a las mismas
+En cada seccion de la pagina, que esta identificada para llevarnos al principio en cada segmento de la misma pagina usando link "Inicio" con links internos, ademas de los externos ya existentes.
+Por supuesto, imagenes insertadas en cada seccion, algunas funcionan como links, como los iconos de magos y bolas de cristal que encontraran en la pagina.
+Uso elementos y atributos basicos en cada pagina, ademas de unos cuantos que me tome la libertad de investigar, desde pequeñeces como "align" y otros atributos de estilizacion hasta unos un poco diferentes como el background de la pagina y textos en ella.
+En "Servicios" Se puede ver la utilizacion de listas, tanto sin orden (ul) como ordenadas (ol)
+En Precios se encuentra organizado en una sencilla tabla, con pequeños detalles de tamaño y bordes.
+En Quienes, se ve un sencillo elemento de bloque con sus imagenes y links basicos.
+En "Contacto" se puede ver la utilizacion de un formulario, con tipos de texto, numericos, de seleccion y areas de texto, con su respectivo boton. (En esta seccion me queda la duda sobre a dónde va la informacion enviada, ¿Debo crear yo el sitio a donde va? Ya deberia saberlo?)
+Intento utilizar en toda la "web" lo aprendido en esta seccion de HTML.
+Gracias y saludos.
